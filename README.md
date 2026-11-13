@@ -1,2 +1,2 @@
-# FF---ARINA
+# FF-ARINA
 Freefire tornament app 
